@@ -194,5 +194,8 @@ Este projeto tem finalidade educacional e documenta testes realizados em um labo
 Os resultados se aplicam ao ambiente testado e não devem ser generalizados para sistemas externos sem investigação independente e autorização explícita.
 
 ---
+## Evidência visual do projeto
+
+![Evidência visual da atividade prática](PROJECT-CLASS%28LAB%29.png)
 
 **Projeto educacional de cibersegurança — Kali Linux, Metasploitable 2, Nmap e Medusa.**
