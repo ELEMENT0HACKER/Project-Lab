@@ -1,0 +1,10 @@
+﻿# Chave criptográfica: nunca publicar
+chave.key
+
+# Arquivos gerados durante os testes
+*.encrypted
+*.restored
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
