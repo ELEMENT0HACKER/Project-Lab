@@ -157,9 +157,9 @@ Projeto desenvolvido como parte da formação em Cibersegurança da DIO.
 
 ### 1. Execução do Ransomware
 
-![Execução do Ransomware](images/ransomware-execution.png)
+![Execução do Ransomware](Images/ransomware-execution.png)
 
 ### 2. Arquivos do laboratório
 
-![Arquivos do laboratório](images/ransomware-files.png)
+![Arquivos do laboratório](Images/ransomware-files.png)
 
