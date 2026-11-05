@@ -149,3 +149,17 @@ Durante o desenvolvimento foram praticados:
 Projeto desenvolvido como parte da formação em Cibersegurança da DIO.
 
 **Áreas de estudo:** Cybersecurity | Python | Criptografia | Segurança da Informação
+
+
+---
+
+## 📸 Evidências da execução
+
+### 1. Execução do Ransomware
+
+![Execução do Ransomware](images/ransomware-execution.png)
+
+### 2. Arquivos do laboratório
+
+![Arquivos do laboratório](images/ransomware-files.png)
+
