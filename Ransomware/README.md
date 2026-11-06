@@ -2,7 +2,7 @@
 
 ## 📌 Sobre o projeto
 
-Este projeto foi desenvolvido como atividade prática do curso de Cibersegurança da DIO, com o objetivo de compreender conceitos fundamentais de criptografia simétrica, manipulação de arquivos e recuperação de dados utilizando Python.
+Este projeto foi desenvolvido como atividade prática do curso de Cibersegurança, com o objetivo de compreender conceitos fundamentais de criptografia simétrica, manipulação de arquivos e recuperação de dados utilizando Python.
 
 A implementação simula, em ambiente local e controlado, o processo de criptografia e descriptografia de um arquivo de teste, utilizando a biblioteca Fernet, disponibilizada pelo pacote `cryptography`.
 
