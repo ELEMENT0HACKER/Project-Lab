@@ -114,13 +114,13 @@ A comparação binária confirmou que o conteúdo recuperado corresponde exatame
 
 ## 📸 Evidências do laboratório
 
-### Execução do programa
+### 1. Execução do programa
 
-![Evidência da execução do programa](images/ransomware-execution.png)
+[Evidência da execução do programa](https://github.com/ELEMENT0HACKER/Project-Lab/blob/main/Ransomware/images/ransomware-execution.png) ([Visualizar imagem](https://github.com/ELEMENT0HACKER/Project-Lab/raw/main/Ransomware/images/ransomware-execution.png))
 
-### Inspeção dos arquivos
+### 2. Inspeção dos arquivos
 
-![Evidência dos arquivos do laboratório](images/ransomware-files.png)
+[Evidência dos arquivos do laboratório](https://github.com/ELEMENT0HACKER/Project-Lab/blob/main/Ransomware/images/ransomware-files.png) ([Visualizar imagem](https://github.com/ELEMENT0HACKER/Project-Lab/raw/main/Ransomware/images/ransomware-files.png))
 
 ## 🔒 Considerações de segurança
 
